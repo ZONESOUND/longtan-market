@@ -1,6 +1,3 @@
-import aTrack from './sound/A-2.mp3';
-import bTrack from './sound/B-2.mp3';
-import cTrack from './sound/C-2.mp3';
 import market from './sound/market-long.mp3';
 export const adminFile = market;
 //export const playList = [aTrack, bTrack, cTrack];
