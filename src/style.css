@@ -75,7 +75,7 @@ a {
 
 #loadOverlay{display: none;}
 
-ol {
+ol, ul {
     padding: 0 0 0 20px;
 }
 
@@ -84,6 +84,9 @@ ol {
     font-style: italic;
 }
 
+.subtitle {
+    font-size: 1.2em;
+}
 
 
 @keyframes fadein {
